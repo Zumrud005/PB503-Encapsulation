@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\PB503-Encapsulation\PB503-Encapsulation\obj\Debug\net6.0\PB503-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PB503-Encapsulation\PB503-Encapsulation\obj\Debug\net6.0\PB503-Encapsulation.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PB503-Encapsulation\PB503-Encapsulation\obj\Debug\net6.0\PB503-Encapsulation.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PB503-Encapsulation\PB503-Encapsulation\obj\Debug\net6.0\PB503-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PB503-Encapsulation\PB503-Encapsulation\bin\Debug\net6.0\PB503-Encapsulation.exe
+C:\Users\ASUS\source\repos\PB503-Encapsulation\PB503-Encapsulation\bin\Debug\net6.0\PB503-Encapsulation.deps.json
+C:\Users\ASUS\source\repos\PB503-Encapsulation\PB503-Encapsulation\bin\Debug\net6.0\PB503-Encapsulation.runtimeconfig.json
+C:\Users\ASUS\source\repos\PB503-Encapsulation\PB503-Encapsulation\bin\Debug\net6.0\PB503-Encapsulation.dll
+C:\Users\ASUS\source\repos\PB503-Encapsulation\PB503-Encapsulation\bin\Debug\net6.0\PB503-Encapsulation.pdb
+C:\Users\ASUS\source\repos\PB503-Encapsulation\PB503-Encapsulation\obj\Debug\net6.0\PB503-Encapsulation.dll
+C:\Users\ASUS\source\repos\PB503-Encapsulation\PB503-Encapsulation\obj\Debug\net6.0\refint\PB503-Encapsulation.dll
+C:\Users\ASUS\source\repos\PB503-Encapsulation\PB503-Encapsulation\obj\Debug\net6.0\PB503-Encapsulation.pdb
+C:\Users\ASUS\source\repos\PB503-Encapsulation\PB503-Encapsulation\obj\Debug\net6.0\PB503-Encapsulation.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\PB503-Encapsulation\PB503-Encapsulation\obj\Debug\net6.0\ref\PB503-Encapsulation.dll

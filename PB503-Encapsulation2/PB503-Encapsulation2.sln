@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PB503-Encapsulation2", "PB503-Encapsulation2\PB503-Encapsulation2.csproj", "{E6F24714-5694-4626-A6E3-8D826369C9B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6F24714-5694-4626-A6E3-8D826369C9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F24714-5694-4626-A6E3-8D826369C9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F24714-5694-4626-A6E3-8D826369C9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F24714-5694-4626-A6E3-8D826369C9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5357BC42-78A4-4268-99CE-9B37962F84CB}
+	EndGlobalSection
+EndGlobal
